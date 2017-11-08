@@ -7,4 +7,4 @@
 ## this is undergoing project just showing the demo in gif 
 ## code will uploaded once project is finished
 
-![MyZone] (gameZone.gif) 
+![] (https://github.com/tanvir-ux/Mehvozsoft_Game_Zone/blob/master/gameZone.gif) 
