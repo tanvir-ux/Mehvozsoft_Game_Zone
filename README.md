@@ -7,4 +7,4 @@
 ## this is undergoing project just showing the demo in gif 
 ## code will uploaded once project is finished
 
-![demo] (gameZone.gif) 
+![demo] (assets/gameZone.gif) 
